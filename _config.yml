@@ -1,5 +1,5 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Walesca Karine
 
 # Description of your website. This is used for social sharing.
 description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
@@ -9,13 +9,13 @@ content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis cons
 
 # Add your social links
 social:
-  - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
+  - platform: whatsapp
     url: https://facebook.com/brianmaierjr
-  - platform: twitter
+  - platform: instagram
     url: https://twitter.com/brianmaierjr
-  - platform: linkedin
+  - platform: artigo final
+    url: brianmaierjr    
+  - platform: curriculo
     url: brianmaierjr
 
 # General settings
